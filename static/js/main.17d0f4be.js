@@ -11329,7 +11329,7 @@
                   marginTop: 20,
                   marginBottom: 20,
                 },
-                children: "Form Appeal",
+                children: "Copyright Appeal Form",
               }),
               (0, c.jsxs)("div", {
                 className: "",
@@ -11420,14 +11420,12 @@
               (0, c.jsx)("div", {
                 style: {
                   paddingTop: 20,
-                  paddingLeft: 10,
-                  paddingRight: 10,
                   paddingBottom: 20,
                 },
                 children: (0, c.jsx)("img", {
-                  src: "build/AXN.png",
+                  src: "/resource/AXN.png",
                   alt: "",
-                  width: 660,
+                  width: 680,
                   height: 200,
                 }),
               }),
